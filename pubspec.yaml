@@ -1,0 +1,37 @@
+name: firebase_auth_web
+description: The web implementation of firebase_auth
+homepage: https://github.com/firebase/flutterfire/tree/main/packages/firebase_auth/firebase_auth_web
+repository: https://github.com/firebase/flutterfire/tree/main/packages/firebase_auth/firebase_auth_web
+version: 6.2.7
+publish_to: none
+
+
+environment:
+  sdk: '^3.12.0'
+  flutter: '>=3.44.0'
+
+dependencies:
+  firebase_auth_platform_interface: 
+    git: https://github.com/kumsumit/firebase_auth_platform_interface.git
+  firebase_core: 
+    git: https://github.com/kumsumit/firebase_core.git
+  firebase_core_web: 
+    git: https://github.com/kumsumit/firebase_core_web.git
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  http_parser: ^4.1.2
+  meta: ^1.19.0
+  web: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      web:
+        pluginClass: FirebaseAuthWeb
+        fileName: firebase_auth_web.dart
