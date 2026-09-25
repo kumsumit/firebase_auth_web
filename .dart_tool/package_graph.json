@@ -192,11 +192,10 @@
     },
     {
       "name": "firebase_core_platform_interface",
-      "version": "7.0.1",
+      "version": "8.1.1",
       "dependencies": [
         "collection",
         "flutter",
-        "flutter_test",
         "meta",
         "plugin_platform_interface"
       ]
@@ -263,11 +262,6 @@
       ]
     },
     {
-      "name": "vector_math",
-      "version": "2.4.2",
-      "dependencies": []
-    },
-    {
       "name": "term_glyph",
       "version": "1.2.2",
       "dependencies": []
@@ -279,6 +273,11 @@
         "source_span",
         "string_scanner"
       ]
+    },
+    {
+      "name": "vector_math",
+      "version": "2.4.3",
+      "dependencies": []
     },
     {
       "name": "typed_data",

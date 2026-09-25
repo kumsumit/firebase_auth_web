@@ -39,9 +39,9 @@
     },
     {
       "name": "firebase_auth_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_auth_platform_interface-37afcf477a161fc5d66158b2693d6bd84b0cb2bc/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_auth_platform_interface-65eb6b20f2a4b30ed665d05fa1305b2c3b44c6b6/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "firebase_core",
@@ -51,7 +51,7 @@
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_core_platform_interface-df6c156996ee80474d4fc40a236c31f1df79db0b/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/firebase_core_platform_interface-23f2f2fc085416ac0b51135f39f02bdc45b54e2b/",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -81,7 +81,7 @@
     },
     {
       "name": "flutterfire_internals",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutterfire_internals-361008abc9c6c719ce3e7281bfd6ba57d9a8e84c/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutterfire_internals-602bf3f5a0b8b094b1eda6212433425d14f25a32/",
       "packageUri": "lib/",
       "languageVersion": "3.12"
     },
@@ -195,7 +195,7 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vector_math-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vector_math-2.4.3",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -215,12 +215,12 @@
       "name": "firebase_auth_web",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.13.2",
+  "generatorVersion": "3.13.4",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.47.2",
+  "flutterVersion": "3.47.5",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
